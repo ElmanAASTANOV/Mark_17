@@ -1,0 +1,10 @@
+C:\Projects\Test_Projects\BinaryTreeCalculator\bin\Debug\netcoreapp2.0\BinaryTreeCalculator.deps.json
+C:\Projects\Test_Projects\BinaryTreeCalculator\bin\Debug\netcoreapp2.0\BinaryTreeCalculator.runtimeconfig.json
+C:\Projects\Test_Projects\BinaryTreeCalculator\bin\Debug\netcoreapp2.0\BinaryTreeCalculator.runtimeconfig.dev.json
+C:\Projects\Test_Projects\BinaryTreeCalculator\bin\Debug\netcoreapp2.0\BinaryTreeCalculator.dll
+C:\Projects\Test_Projects\BinaryTreeCalculator\bin\Debug\netcoreapp2.0\BinaryTreeCalculator.pdb
+C:\Projects\Test_Projects\BinaryTreeCalculator\obj\Debug\netcoreapp2.0\BinaryTreeCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\Test_Projects\BinaryTreeCalculator\obj\Debug\netcoreapp2.0\BinaryTreeCalculator.AssemblyInfoInputs.cache
+C:\Projects\Test_Projects\BinaryTreeCalculator\obj\Debug\netcoreapp2.0\BinaryTreeCalculator.AssemblyInfo.cs
+C:\Projects\Test_Projects\BinaryTreeCalculator\obj\Debug\netcoreapp2.0\BinaryTreeCalculator.dll
+C:\Projects\Test_Projects\BinaryTreeCalculator\obj\Debug\netcoreapp2.0\BinaryTreeCalculator.pdb
